@@ -119,8 +119,8 @@ language badges:
  pkg install git
  pkg install figlet
  pkg install python2
- git clone https://github.com/MYSTERIOUS11URINEI/Defacemnt404
- cd Defacement404
+ git clone https://github.com/EagleCyber-74/Defacemnt404
+ cd Defacemnt404
  git pull
  python Eagle.py
 ````
